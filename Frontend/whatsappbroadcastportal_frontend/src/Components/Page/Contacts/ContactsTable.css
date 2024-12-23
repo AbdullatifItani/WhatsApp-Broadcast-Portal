@@ -1,0 +1,15 @@
+.whatsapp-table {
+    font-size: 14px;
+    margin-top: 20px; /* Example margin adjustment */
+  }
+  
+  .whatsapp-table th,
+  .whatsapp-table td {
+    vertical-align: middle; /* Center content vertically */
+  }
+  
+  .whatsapp-btn {
+    font-size: 12px;
+    padding: 6px 12px;
+    margin-right: 5px;
+  }

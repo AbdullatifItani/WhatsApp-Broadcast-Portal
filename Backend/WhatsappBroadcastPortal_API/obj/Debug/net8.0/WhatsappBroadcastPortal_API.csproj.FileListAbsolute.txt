@@ -1,0 +1,248 @@
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.csproj.AssemblyReference.cache
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.AssemblyInfoInputs.cache
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.AssemblyInfo.cs
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.csproj.CoreCompileInputs.cache
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/appsettings.Development.json
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/appsettings.json
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.deps.json
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.runtimeconfig.json
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.pdb
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Humanizer.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/MySqlConnector.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.WhatsappBroadcastPortal_API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.build.WhatsappBroadcastPortal_API.props
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WhatsappBroadcastPortal_API.props
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WhatsappBroadcastPortal_API.props
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/scopedcss/bundle/WhatsappBroadcastPortal_API.styles.css
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/Whatsapp.9912FA58.Up2Date
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/refint/WhatsappBroadcastPortal_API.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.pdb
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.genruntimeconfig.cache
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/ref/WhatsappBroadcastPortal_API.dll
+/Users/abdellatifitani/Desktop/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Twilio.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/appsettings.Development.json
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/appsettings.json
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.deps.json
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.runtimeconfig.json
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/WhatsappBroadcastPortal_API.pdb
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Humanizer.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/MySqlConnector.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/Twilio.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.csproj.AssemblyReference.cache
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.AssemblyInfoInputs.cache
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.AssemblyInfo.cs
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.csproj.CoreCompileInputs.cache
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.WhatsappBroadcastPortal_API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.build.WhatsappBroadcastPortal_API.props
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WhatsappBroadcastPortal_API.props
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WhatsappBroadcastPortal_API.props
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/scopedcss/bundle/WhatsappBroadcastPortal_API.styles.css
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/Whatsapp.9912FA58.Up2Date
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/refint/WhatsappBroadcastPortal_API.dll
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.pdb
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/WhatsappBroadcastPortal_API.genruntimeconfig.cache
+/Users/abdellatifitani/Desktop/Internship EDM/Whatsapp Broadcast Portal/Backend/WhatsappBroadcastPortal_API/obj/Debug/net8.0/ref/WhatsappBroadcastPortal_API.dll
